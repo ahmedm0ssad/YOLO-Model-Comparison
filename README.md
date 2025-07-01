@@ -62,9 +62,9 @@ The notebook generates several outputs:
 ### Performance Comparison Results
 
 
-*Performance benchmark results showing inference time and FPS comparison between YOLOv10n, YOLOv11n, and YOLOv12n models.
+*Performance benchmark results showing inference time and FPS comparison between YOLOv10n, YOLOv11n, and YOLOv12n models.*
 
-YOLOv10n demonstrates the best performance with ~4.81 FPS and 207ms average inference time.*
+*YOLOv10n demonstrates the best performance with ~4.81 FPS and 207ms average inference time.*
 
 ![Performance Comparison](performance_comparison.png)
 
