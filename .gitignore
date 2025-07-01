@@ -115,7 +115,7 @@ cython_debug/
 weights/
 models/
 
-# Video files (except sample)
+# Video files (except sample and test)
 *.mp4
 *.avi
 *.mov
@@ -124,6 +124,7 @@ models/
 *.wmv
 !sample_*.mp4
 !demo_*.mp4
+!test*.mp4
 
 # Image files (large datasets)
 *.jpg
