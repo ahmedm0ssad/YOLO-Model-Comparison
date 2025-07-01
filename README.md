@@ -52,8 +52,6 @@ jupyter notebook yolo_object_tracking_comparison.ipynb
 
 ## 📊 Results
 
-Fastest model: YOLOv10n with 4.81 FPS (207.90 ms per frame)
-
 The notebook generates several outputs:
 
 - **Performance metrics table**: Comparison of inference times and FPS
@@ -63,9 +61,11 @@ The notebook generates several outputs:
 
 ### Performance Comparison Results
 
-![Performance Comparison](performance_comparison.png)
 
 *Performance benchmark results showing inference time and FPS comparison between YOLOv10n, YOLOv11n, and YOLOv12n models. YOLOv10n demonstrates the best performance with ~4.81 FPS and 207ms average inference time.*
+![Performance Comparison](performance_comparison.png)
+
+
 
 ### Example Output Structure
 ```
