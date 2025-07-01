@@ -59,6 +59,12 @@ The notebook generates several outputs:
 - **Annotated videos**: Object tracking results for each model
 - **Sample frames**: Visual comparison of detection quality
 
+### Performance Comparison Results
+
+![Performance Comparison](performance_comparison.png)
+
+*Performance benchmark results showing inference time and FPS comparison between YOLOv10n, YOLOv11n, and YOLOv12n models. YOLOv10n demonstrates the best performance with ~4.81 FPS and 207ms average inference time.*
+
 ### Example Output Structure
 ```
 output_videos/
