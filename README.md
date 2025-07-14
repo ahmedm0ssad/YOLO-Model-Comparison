@@ -25,8 +25,8 @@ This project benchmarks the performance of three YOLO nano models (YOLOv10n, YOL
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/yolo-model-comparison.git
-cd yolo-model-comparison
+git clone https://github.com/yourusername/Yolo-Model-Comparison.git
+cd Yolo-Model-Comparison
 ```
 
 2. Install required dependencies:
